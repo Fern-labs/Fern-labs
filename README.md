@@ -1,7 +1,7 @@
 ## Current Work
 - Indie game projects using **Godot Engine** and **GDScript**
 - Learning **NixOS** and Linux system administration
-- Expanding portfolio with **C/C++ projects**
+- Expanding knowledge with **C/C++ projects**
 
 ## Skills
 - Systems & Networking (NAS setups, custom laptops, frameworks)
