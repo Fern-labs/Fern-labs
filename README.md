@@ -4,7 +4,7 @@
 - Expanding knowledge with **C/C++ projects**
 
 ## Skills
-- Systems & Networking (NAS setups, custom laptops, frameworks)
+- Systems & Networking 
 - Programming in **C, C++, GDScript**
 - Linux Ricing
 - Game development
