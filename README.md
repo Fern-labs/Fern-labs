@@ -1,16 +1,6 @@
-## Current Work
-- Indie game projects using **Godot Engine** and **GDScript**
-- Learning **NixOS** and Linux system administration
-- Expanding knowledge with **C/C++ projects**
+# 💫 About Me:
+Current Work<br><br>    Indie game projects using Godot Engine and GDScript<br>    Learning NixOS and Linux system administration<br>    Expanding knowledge with C/C++ projects<br><br>Skills<br><br>    Systems & Networking<br>    Programming in C, C++, GDScript<br>    Linux Ricing<br>    Game development<br><br>Learning<br><br>    Advanced Linux & NixOS workflows<br>    Game development techniques in Godot<br>    Networking and IT automation<br>
 
-## Skills
-- Systems & Networking 
-- Programming in **C, C++, GDScript**
-- Linux Ricing
-- Game development
 
-## Learning
-- Advanced **Linux & NixOS workflows**
-- Game development techniques in **Godot**
-- Networking and IT automation
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
