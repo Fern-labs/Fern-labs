@@ -1,16 +1,15 @@
-## Hi there 👋
+## Current Work
+- Indie game projects using **Godot Engine** and **GDScript**
+- Learning **NixOS** 
+- Expanding portfolio with **C/C++ projects**
 
-<!--
-**Fern-labs/Fern-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hobbies
+- Programming in **C, C++, GDScript**
+- Linux Ricing
+- Game development
 
-Here are some ideas to get you started:
+## Learning
+- Advanced **Linux & NixOS workflows**
+- Game development techniques in **Godot**
+- Networking and IT automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
